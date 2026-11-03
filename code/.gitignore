@@ -1,0 +1,14 @@
+models/*
+!models/*/
+models/*/*
+!models/*/.gitkeep
+datasets/*
+!datasets/*/
+datasets/*/*
+!datasets/*/.gitkeep
+results/
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+*.log
