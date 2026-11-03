@@ -1,0 +1,9 @@
+torch>=2.7,<2.8
+transformers==4.53.3
+accelerate>=1.10
+datasets>=3.6,<4
+sentencepiece
+protobuf
+regex
+tqdm
+huggingface_hub>=0.30,<1

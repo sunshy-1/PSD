@@ -1,0 +1,12 @@
+{
+  "models": {
+    "dream": {"repo_id": "Dream-org/Dream-v0-Base-7B", "directory": "Dream-v0-Base-7B", "revision": "main", "model_type": "Dream", "mask_token_id": 151666},
+    "llada": {"repo_id": "GSAI-ML/LLaDA-1.5", "directory": "LLaDA-1.5", "revision": "main", "model_type": "llada", "mask_token_id": 126336},
+    "openpangu": {"repo_id": "openpangu/openPangu-7B-Diffusion-Base", "directory": "openPangu-7B-Diffusion-Base", "revision": "main", "model_type": "PanguEmbedded", "mask_token_id": 45830}
+  },
+  "datasets": {
+    "gsm8k": {"repo_id": "openai/gsm8k", "config": "main", "revision": "740312add88f781978c0658806c59bc2815b9866", "files": {"train": 7473, "test": 1319}},
+    "humaneval": {"repo_id": "openai/openai_humaneval", "config": "openai_humaneval", "revision": "7dce6050a7d6d172f3cc5c32aa97f52fa1a2e544", "files": {"test": 164}},
+    "mbpp": {"repo_id": "google-research-datasets/mbpp", "config": "full", "revision": "4bb6404fdc6cacfda99d4ac4205087b89d32030c", "files": {"prompt": 10, "test": 500}}
+  }
+}
