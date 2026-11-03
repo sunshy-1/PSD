@@ -122,7 +122,7 @@ This command prepares the runtime and missing assets, waits for idle GPUs, runs 
 You are welcome to cite our paper:
 ```
 @inproceedings{SunLi26,
-  title={{Salvation Lies Within}: Eliciting Inherent Style Transfer in Step-Distilled Diffusion Models},
+  title={{PSD}: Pushing the Pareto Frontier of Diffusion LLMs via Parallel Speculative Decoding},
   author={Shengyin Sun, Yiming Li, Yingzhao Lian, Xing Li, Xingzhi Zhou, Anxin Tian, Zhili Wang, Haoyang Li, Ziqiang Cui, Chen Ma},
   booktitle={arXiv:2605.15609},
   year={2026}
