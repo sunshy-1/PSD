@@ -123,7 +123,7 @@ You are welcome to cite our paper:
 ```
 @inproceedings{SunLi26,
   title={{PSD}: Pushing the Pareto Frontier of Diffusion LLMs via Parallel Speculative Decoding},
-  author={Shengyin Sun, Yiming Li, Yingzhao Lian, Xing Li, Xingzhi Zhou, Anxin Tian, Zhili Wang, Haoyang Li, Ziqiang Cui, Chen Ma},
+  author={Shengyin Sun, Yiming Li, Renxi Liu, Xinqi Li, Hui-Ling Zhen, Weizhe Lin, Chen Chen, Xianzhi Yu, Mingxuan Yuan, Chen Ma},
   booktitle={arXiv:2605.15609},
   year={2026}
 }
